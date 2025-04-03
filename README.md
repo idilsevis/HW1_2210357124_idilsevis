@@ -27,8 +27,9 @@ We build a custom k-NN classifier without using libraries like `sklearn.neighbor
 #How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/knn-wine-classifier.git
-   cd knn-wine-classifier
+   git clone https://github.com/idilsevis/HW1_2210357124_idilsevis.git  
+   cd HW1_2210357124_idilsevis
+
    ```
 2. Install required packages:
    ```bash
