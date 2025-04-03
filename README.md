@@ -2,7 +2,7 @@
  Implementation of k-Nearest Neighbors (k-NN) from scratch in Python as part of ELE 489: Fundamentals of Machine Learning
 # k-NN Classifier on Wine Dataset
 
-This project is a coursework assignment for ELE 489: Fundamentals of Machine Learning. It involves implementing the k-Nearest Neighbors (k-NN) algorithm from scratch and evaluating it on the Wine dataset** from the UCI Machine Learning Repository.
+This project is a coursework assignment for ELE 489: Fundamentals of Machine Learning. It involves implementing the k-Nearest Neighbors (k-NN) algorithm from scratch and evaluating it on the Wine dataset from the UCI Machine Learning Repository.
 
 # Description
 We build a custom k-NN classifier without using libraries like `sklearn.neighbors`. Our classifier supports both Euclidean and Manhattandistance metrics and can be tested with different `k` values.
